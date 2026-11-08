@@ -25,7 +25,7 @@ di ESP Component Registry:
 
 ```yaml
 dependencies:
-  wahyu-widodo-dev/energy:
+  wahyu-widodo-dev/energy_meter:
     version: "^1.0.0"
 ```
 
